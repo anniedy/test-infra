@@ -1,7 +1,7 @@
 Overview
 ========
 
-Fetcher retrives a github repository history and stores it in a MySQL local
+Fetcher retrives a github repotory history and stores it in a MySQL local
 database.
 
 For now, it downloads three types of resources:
